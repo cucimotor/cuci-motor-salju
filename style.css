@@ -187,12 +187,12 @@ body {
   align-items: center;
 }
 .pelanggan .row .customer img {
-  width: 230px;
+  width: 250px;
   border-radius: 10%;
   margin-bottom: 0.3rem;
 }
 .pelanggan .row .customer img:hover {
-  width: 100%;
+  width: 300px;
   transition: all 0.5s ease;
 }
 
@@ -488,12 +488,12 @@ footer .sosial a:hover {
   }
 
   .pelanggan .row .customer img {
-    width: 160px;
+    width: 140px;
     margin-bottom: 1rem;
   }
 
   .pelanggan .row .customer img:hover {
-    width: 100%;
-    transition: all 0.5s ease;
+    width: 195px;
+    transition: 0.5s ease;
   }
 }
